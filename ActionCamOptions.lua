@@ -189,7 +189,7 @@ end);
 --     focusAll - enable all target focusing
 --     focusOff - disable target focusing
 --   focusEnemy - enable enemy target focusing
--- focusInteract - enable interact target focusing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+-- focusInteract - enable interact target focusing
 
 -- Check Button focus all:
 ActionCamOptions.focusAll = CreateFrame("CheckButton", nil, ActionCamOptions, "UICheckButtonTemplate");
