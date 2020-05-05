@@ -1,0 +1,6 @@
+## Interface: 80300
+## Title: ActionCam Options
+## Author: Veneta Kochovska
+## Version: 1.0
+
+ActionCamOptions.lua
